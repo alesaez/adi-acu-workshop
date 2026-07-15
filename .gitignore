@@ -42,3 +42,10 @@ Thumbs.db
 *.log
 *.tmp
 *.temp
+
+# Workshop downloaded lab assets
+workshop/lab-02-content-understanding/content.zip
+workshop/lab-02-content-understanding/content/
+workshop/lab-02-content-understanding/01-multimodal-content/content.zip
+workshop/lab-02-content-understanding/01-multimodal-content/content/
+workshop/lab-03-knowledge-mining/documents/
